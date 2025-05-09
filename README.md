@@ -1,3 +1,4 @@
+
 # MediStock – C++ Pharmacy Management System
 
 MediStock is a modular, object-oriented console application written in C++ for managing a small pharmacy's medication inventory.
@@ -97,3 +98,6 @@ That's it! ✅
 ## 📄 License
 
 MIT License – free to use, modify, and distribute.
+
+# pharmacie-management
+
