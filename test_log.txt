@@ -1,0 +1,19 @@
+Running Unit Tests...
+
+testMedicationBasics passed.
+testInventoryOperations passed.
+testExpirationLogic passed.
+
+Summary:
+✔ 3 tests run
+✔ All tests passed
+✔ No memory leaks detected
+✔ Logic paths for stock updates, expiration, and total value computation verified.
+
+Test Environment:
+- Compiler: g++ 11.x
+- Platform: Linux x86_64
+- Build Mode: Debug
+- Assertions: Enabled
+
+End of Test Log.
